@@ -1,11 +1,11 @@
-*{
-  background-color: rgb(237,250,255);
+/* Reset and Base Styles */
+* {
+   background-color: #e3f7ff;
+
 }
 
-h1{
-  text-align: centered;
+p, h1{
+    text-align: centered;
+    color: #80bfff;
+    font-family: Arial;
 }
-p{
-  text-align: centered;
-}
-
