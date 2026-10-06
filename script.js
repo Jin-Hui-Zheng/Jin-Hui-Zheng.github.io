@@ -1,3 +1,7 @@
+let username = window.prompt("What is your name?");
+
+document.getElementById("myH1").textContent = `Hi ${username}`;
+
 const coords = { x: 0, y: 0 };
 const circles = document.querySelectorAll(".circle");
 
